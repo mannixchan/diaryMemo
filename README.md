@@ -11,4 +11,4 @@
 3. impl 需要继承自一个接口 -> `service` 接口
 4. 需要定义一个标准返回vo
 5. 查数据库需要一个`pojo`(数据原型), 一个`Mapper`接口(对接`mybatis`的xml)
-6. 而和`mybatis`交互, 就需要看怎么将spring和mybatis融合, 以及怎么配置 xml
+6. 而和`mybatis`交互, 就需要看怎么将[spring和mybatis融合](https://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/), 以及怎么配置 xml
